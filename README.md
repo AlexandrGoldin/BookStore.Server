@@ -1,7 +1,7 @@
 # BookStore.Server
 ### C# Backend of the Client-Server application  of the online store emulator "BookStore" . 
 ### Data Base deployed on host somee.com and listed in the  appsettings.json  file.
-__ConnectionStrings__:"workstation id=BookSaleSqlDb.mssql.somee.com;packet size=4096;user id=siteBookSale_SQLLogin_1;pwd=8mqg2b6ckm;data source=BookSaleSqlDb.mssql.somee.com;persist security info=False;initial catalog=BookSaleSqlDb"
+### Sql scripts file to create the database of this project BookStore is in the BookStore.SqlScript repository
 ### Developed in Visual Studio 2019
 ___
 ### Stack:
