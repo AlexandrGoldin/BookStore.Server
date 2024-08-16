@@ -7,16 +7,17 @@ ___
 ### Stack:
 * MS SQL Server
 * TSQL
+* Entity Framework Core 
+* N-tier architecture
 * ASP.NET Core 3.1
 * Web API
-* Entity Framework Core
-* N-tier architecture
 * CORS
+* Automapper
 * Swashbuckle
 * Data Transfer Object
 * AutoMapper
 * MemoryCache
-* xUnit
+* xUnit tests
 ___
 ### VS Solution Arhitecture **BookStore.Server** app uses onion architecture, dependency inversion principle
 ![VSSolutionStructure](https://user-images.githubusercontent.com/75939181/164613381-fc99307b-abd0-469e-b874-508f09d0efc0.JPG)
