@@ -12,7 +12,6 @@ ___
 * ASP.NET Core 3.1
 * Web API
 * CORS
-* Automapper
 * Swashbuckle
 * Data Transfer Object
 * AutoMapper
